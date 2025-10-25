@@ -1,8 +1,17 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
+# About Me
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Introduction
+
+just another noob pwner from the shadows
+
+## What You'll Find Here
+
+- Mainly CTF writeups
+- Binary exploitation techniques
+- Notes
+- My Pwning Bible
+
+## Get In Touch
+
+- Twitter: [@piwpawpow]
+
