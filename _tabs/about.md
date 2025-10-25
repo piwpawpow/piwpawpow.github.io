@@ -1,3 +1,8 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
 # About Me
 
 ## Introduction
@@ -13,5 +18,5 @@ just another noob pwner from the shadows
 
 ## Get In Touch
 
-- Twitter: [@piwpawpow]
+- Twitter: @piwpawpow
 
